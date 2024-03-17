@@ -17,4 +17,8 @@ Issues
 
 So here you go, create-next-diff show cases different ways to add technologies on top of create-next-app. I can't promise it just works. I can't promise it's as magical as Rails/Django etc. But it hopefully saves you some hours.
 
-## Branchs
+## shacnui, Drizzle, Lucia
+1. Create next app. [PR](https://github.com/andthezhang/create-next-diff/pull/4).
+2. Add drizzle with postgres and postgres.js. [PR](https://github.com/andthezhang/create-next-diff/pull/1)
+3. Add shadcnui. [PR](https://github.com/andthezhang/create-next-diff/pull/2)
+4. Add Lucia Auth. [PR](https://github.com/andthezhang/create-next-diff/pull/3)
