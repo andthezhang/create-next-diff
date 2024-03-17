@@ -1,20 +1,49 @@
-<h1 align="center">
-  Create-Next-Diff
-</h1>
-<p align="center">Create-Next-Diff is a git diff collections that you can <strong>copy paste to build your full-stack Next.js apps</strong>. </p>
+```
+npx create-next-app@14.1.3 ./
+✔ Would you like to use TypeScript? … No / Yes
+✔ Would you like to use ESLint? … No / Yes
+✔ Would you like to use Tailwind CSS? … No / Yes
+✔ Would you like to use `src/` directory? … No / Yes
+✔ Would you like to use App Router? (recommended) … No / Yes
+✔ Would you like to customize the default import alias (@/*)? … No / Yes
+✔ What import alias would you like configured? … @/*
+```
 
-## Copy-Paste vs CLI vs Template
-This project is heavily inspired by [shacd/ui](https://ui.shadcn.com/), [Kirimase](https://kirimase.dev/) and other Next.js template.
 
-* shacd/ui is a "Beautifully designed components that you can copy and paste into your apps". It also has an [CLI tool](https://ui.shadcn.com/docs/cli) to add components to your project.
-* "Kirimase is a command-line tool (CLI) for building full-stack Next.js apps faster. It supercharges your development workflow, allowing you to quickly integrate packages and scaffold resources for your application with best practices in mind.
-* There are also tons of Next.js templates online.
 
-Issues
-* Configuring a particular tech(eg. Stripe) with a particular framework (eg. NextJs) could take hours.
-* Template is magical but it contains too many technologies! Dev could spend hours understanding which codes are configuring which tech.
-* Kirimase is great but I find myself creating kirimase project on top of create-next-app over and over again, just to learn what is was doing. I wish that is a website like [shacn/ui's doc](https://ui.shadcn.com/docs) but for Kirimase. For copy-pasting, referencing and learning how to build together a Next.js app with different techs.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-So here you go, create-next-diff show cases different ways to add technologies on top of create-next-app. I can't promise it just works. I can't promise it's as magical as Rails/Django etc. But it hopefully saves you some hours.
+## Getting Started
 
-## Branchs
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
