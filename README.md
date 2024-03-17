@@ -19,6 +19,6 @@ So here you go, create-next-diff show cases different ways to add technologies o
 
 ## shacnui, Drizzle, Lucia
 1. Create next app. [PR](https://github.com/andthezhang/create-next-diff/pull/4/files).
-2. Add drizzle with postgres and postgres.js. [PR](https://github.com/andthezhang/create-next-diff/pull/1/files)
+2. Add drizzle with postgres and postgres.js. [PR](https://github.com/andthezhang/create-next-diff/pull/5/files)
 3. Add shadcnui. [PR](https://github.com/andthezhang/create-next-diff/pull/2/files)
 4. Add Lucia Auth. [PR](https://github.com/andthezhang/create-next-diff/pull/3/files)
