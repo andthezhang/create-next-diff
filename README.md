@@ -29,3 +29,4 @@ Together with [Kirimase tutorial](https://kirimase.dev/the-tutorial#kirimase-ini
 6. Add Resend. [PR](https://github.com/andthezhang/create-next-diff/pull/7)
 
 ### Prettier
+[PR](https://github.com/andthezhang/create-next-diff/pull/8). Prettier set up to sort import and tailwind class!
