@@ -1,0 +1,16 @@
+{
+  "hasSrc": true,
+  "packages": [
+    "drizzle"
+  ],
+  "preferredPackageManager": "bun",
+  "t3": false,
+  "alias": "@",
+  "analytics": true,
+  "rootPath": "src/",
+  "componentLib": null,
+  "driver": "pg",
+  "provider": "postgresjs",
+  "orm": "drizzle",
+  "auth": null
+}
