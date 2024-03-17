@@ -3,8 +3,9 @@
   "packages": [
     "drizzle",
     "lucia",
+    "stripe",
     "shadcn-ui",
-    "stripe"
+    "resend"
   ],
   "preferredPackageManager": "bun",
   "t3": false,
